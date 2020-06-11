@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Main-Class: 
+Class-Path: slf4j-log4j12-1.7.7.jar slf4j-api-1.7.15.jar log4j-1.2.17.ja
+ r log4j-1.2.17.jar slf4j-log4j12-1.7.15.jar flink-dist_2.12-1.9.3.jar f
+ link-table_2.12-1.9.3.jar flink-table-blink_2.12-1.9.3.jar
+

@@ -1,0 +1,18 @@
+<component name="ArtifactManager">
+  <artifact name="myflinkV1:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/myflinkV1_jar</output-path>
+    <root id="root">
+      <element id="archive" name="myflinkV1.jar">
+        <element id="module-output" name="myflinkV1" />
+      </element>
+      <element id="library" level="project" name="Maven: org.slf4j:slf4j-log4j12:1.7.7" />
+      <element id="library" level="project" name="Maven: org.slf4j:slf4j-api:1.7.15" />
+      <element id="library" level="project" name="Maven: log4j:log4j:1.2.17" />
+      <element id="file-copy" path="C:/Program Files/flink-1.9.3/lib/log4j-1.2.17.jar" />
+      <element id="file-copy" path="C:/Program Files/flink-1.9.3/lib/slf4j-log4j12-1.7.15.jar" />
+      <element id="file-copy" path="C:/Program Files/flink-1.9.3/lib/flink-dist_2.12-1.9.3.jar" />
+      <element id="file-copy" path="C:/Program Files/flink-1.9.3/lib/flink-table_2.12-1.9.3.jar" />
+      <element id="file-copy" path="C:/Program Files/flink-1.9.3/lib/flink-table-blink_2.12-1.9.3.jar" />
+    </root>
+  </artifact>
+</component>
